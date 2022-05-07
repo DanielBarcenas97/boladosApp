@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">boladosApp</string>
+
+    <string name="btn_next">Continuar</string>
+    <string name="btn_reset">Reiniciar</string>
+    <string name="btn_launch">Lanzar</string>
+    <string name="til_name">Introduce tu nombre</string>
+    <string name="tv_init">Inicio</string>
+    <string name="tv_win">Ganaste</string>
+    <string name="tv_lose">Perdiste</string>
+
+
+</resources>
